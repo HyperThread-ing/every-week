@@ -12,9 +12,9 @@
 后端:python3.5,编辑器推荐sublime3.
 
 5.相关资料：
-> git教程:[廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)、[git中文手册](http://docs.pythontab.com/github/gitbook/)
-> sublime:[sublime中文文档](http://sublime-text-zh.readthedocs.io/zh_CN/latest/)
-> 翻墙:[老D hosts](https://laod.cn/hosts/2016-google-hosts.html)、[蓝灯](https://github.com/getlantern/forum)
-> markdown:[markdown快速入门](http://wowubuntu.com/markdown/)
+> git教程:[廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)、[git中文手册](http://docs.pythontab.com/github/gitbook/)、[git 参考手册api](http://gitref.org/zh/index.html)<br \>
+> sublime:[sublime中文文档](http://sublime-text-zh.readthedocs.io/zh_CN/latest/)<br \>
+> 翻墙:[老D hosts](https://laod.cn/hosts/2016-google-hosts.html)、[蓝灯](https://github.com/getlantern/forum)<br \>
+> markdown:[markdown快速入门](http://wowubuntu.com/markdown/)<br \>
 
 
