@@ -1,4 +1,17 @@
 ## 2016.11.20 ##
+******
+
+#### 第五周 ####
+考试周
+
+
+
+
+
+
+
+
+## 2016.11.20 ##
 ****
 不知不觉，已经到第四周了，一个学期20周，我们团队成立，已经过去了一个学期的 1/5.已经过去了一个月，这一个月，大家都学到了什么？时间利用率怎么样？这周六，我们一起总结一下，自己的这一个月是否满意!
 #### 第四周任务 ####
@@ -118,8 +131,11 @@
 
 5.相关资料：
 > git教程:[廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)、[git中文手册](http://docs.pythontab.com/github/gitbook/)
+>
 > sublime:[sublime中文文档](http://sublime-text-zh.readthedocs.io/zh_CN/latest/)
+>
 > 翻墙:[老D hosts](https://laod.cn/hosts/2016-google-hosts.html)、[蓝灯](https://github.com/getlantern/forum)
+>
 > markdown:[markdown快速入门](http://wowubuntu.com/markdown/)
 
 ------
